@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/pranav-khaire-465664248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/pranavkhaire" target="_blank">
+  <a href="https://github.com/Pranav77722" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
