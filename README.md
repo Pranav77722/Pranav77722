@@ -15,6 +15,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pranav77722&style=for-the-badge&color=6C63FF&labelColor=1a1b27&label=PROFILE+VIEWS)
+<a href="https://pranav-port-v2-lzm3.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00D4FF?style=for-the-badge&labelColor=1a1b27"/></a>
 ![Followers](https://img.shields.io/github/followers/Pranav77722?style=for-the-badge&color=00D4FF&labelColor=1a1b27)
 ![Stars](https://img.shields.io/github/stars/Pranav77722?style=for-the-badge&color=FF6B6B&labelColor=1a1b27)
 ![Last Commit](https://img.shields.io/github/last-commit/Pranav77722/Pranav77722?style=for-the-badge&color=FFD93D&labelColor=1a1b27)
@@ -154,64 +155,110 @@
 
 <!-- ========================= FEATURED PROJECTS ========================= -->
 
+<!-- ========================= PORTFOLIO SHOWCASE ========================= -->
+
+## 🪟 Portfolio Showcase
+
+<div align="center">
+
+### ✨ [pranav-port-v2-lzm3.vercel.app](https://pranav-port-v2-lzm3.vercel.app/)
+
+*Creative Builder · Software Engineer · Design Engineer — product, code & craft.*
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+<a href="https://pranav-port-v2-lzm3.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_Explore_Portfolio-6C63FF?style=for-the-badge&labelColor=1a1b27"/>
+</a>
+<a href="https://pranav-port-v2-lzm3.vercel.app/projects">
+<img src="https://img.shields.io/badge/📂_View_Projects-00D4FF?style=for-the-badge&labelColor=1a1b27"/>
+</a>
+<a href="https://pranav-port-v2-lzm3.vercel.app/contact">
+<img src="https://img.shields.io/badge/📩_Get_In_Touch-FF6B6B?style=for-the-badge&labelColor=1a1b27"/>
+</a>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 Smart Traffic Management System
-AI-driven traffic optimization combining computer vision, a vision-LLM, and IoT hardware for real-time signal decisions.
+### 🏛️ SAKSHAM — SIH 2025
+Unified Beneficiary & Officer GovTech Portal — a single-window interface for officer administration, scheme management, and citizen services.
 
-![YOLOv4](https://img.shields.io/badge/YOLOv4-6C63FF?style=flat-square&logoColor=white)
-![Vision LLM](https://img.shields.io/badge/Vision_LLM-00D4FF?style=flat-square&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-FF6B6B?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React-6C63FF?style=flat-square&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-00D4FF?style=flat-square&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFD93D?style=flat-square&logoColor=white)
+
+[🔗 Repo](https://github.com/Pranav77722/SIH_final_project_2025) · [🌐 Live Demo](https://pranav77722.github.io/SIH_final_project_2025/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏆 SIH 2025 Finalist Project
-National-level Smart India Hackathon finalist build tackling a real-world, government-facing problem statement.
+### 📍 CityFix
+Civic issue reporting system — a mobile app for residents to report problems and an authority dashboard for municipal teams.
 
-![MERN](https://img.shields.io/badge/MERN_Stack-6C63FF?style=flat-square&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-00D4FF?style=flat-square&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-6C63FF?style=flat-square&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-00D4FF?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React-FF6B6B?style=flat-square&logoColor=white)
+
+[🔗 Repo](https://github.com/Pranav77722/cityfix-app-and-dashboard) · [🌐 Live Dashboard](https://authoritydashboard-virid.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📍 CityFix
-AI-powered civic issue reporting platform for citizens to flag and track local problems.
+### 🛰️ Orbisynth
+Hackathon contribution — transforming the WorldMonitor platform into a tactical React Native mobile app powered by its API.
 
-![React](https://img.shields.io/badge/React-6C63FF?style=flat-square&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-00D4FF?style=flat-square&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-FF6B6B?style=flat-square&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-6C63FF?style=flat-square&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-00D4FF?style=flat-square&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre-FF6B6B?style=flat-square&logoColor=white)
+
+[🔗 Repo](https://github.com/Pranav77722/orbiSynthpk)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Agents & Automation
-Agentic workflows and automation built with Python, LLM APIs, and Hugging Face tooling.
+### 🎬 BookMyShow Clone
+A modern, responsive web app for booking movie tickets and events, demonstrating a robust frontend architecture.
 
-![Python](https://img.shields.io/badge/Python-6C63FF?style=flat-square&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD93D?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React-6C63FF?style=flat-square&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-00D4FF?style=flat-square&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-FF6B6B?style=flat-square&logoColor=white)
+
+[🌐 Live Demo](https://bookmyshow-home-hub.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center" valign="top">
 
-### 🌐 Personal Portfolio
-Modern, animated, responsive portfolio website showcasing projects and skills.
+### 📞 AI Calling Agent
+An intelligent voice calling agent using Twilio for telecommunications and VAPI for natural, automated AI voice interactions.
 
-![Next.js](https://img.shields.io/badge/Next.js-6C63FF?style=flat-square&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-00D4FF?style=flat-square&logoColor=white)
-![Animation](https://img.shields.io/badge/Motion_%2F_GSAP-FF6B6B?style=flat-square&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-6C63FF?style=flat-square&logoColor=white)
+![VAPI](https://img.shields.io/badge/VAPI-00D4FF?style=flat-square&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FFD93D?style=flat-square&logoColor=white)
+
+[🔗 Repo](https://github.com/Pranav77722/Calling-Agent)
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+*Explore all of it, with case studies and live links, on the [portfolio site →](https://pranav-port-v2-lzm3.vercel.app/projects)*
+
+</div>
 
 ---
 
@@ -236,6 +283,9 @@ Modern, animated, responsive portfolio website showcasing projects and skills.
 
 <div align="center">
 
+<a href="https://pranav-port-v2-lzm3.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="mailto:khairepranav246@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -259,4 +309,6 @@ Modern, animated, responsive portfolio website showcasing projects and skills.
 
 </div>
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer"/>
+</div>
